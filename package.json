@@ -46,7 +46,7 @@
     "qs": "^6.5.2"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "es3ify-webpack-plugin": "^0.0.1",
     "es5-shim": "^4.5.9",
     "export-from-ie8": "^1.0.5",
