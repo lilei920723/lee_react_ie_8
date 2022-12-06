@@ -43,7 +43,7 @@
     "webpack": "1.x.x",
     "webpack-dev-server": "1.x.x",
     "webpack-merge": "^4.1.0",
-    "qs": "^6.5.2"
+    "qs": "^6.7.3"
   },
   "dependencies": {
     "axios": "^0.16.2",
